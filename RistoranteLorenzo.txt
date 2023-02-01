@@ -1,17 +1,1 @@
-Ristorante di Lorenzo
-
-Menù a base di carne
-
-
-
-
-
-
-
-
-Bevande:
-- Acqua
-- Coca-Cola
-- The pesca/limone
-- Birra
 
